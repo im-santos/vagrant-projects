@@ -13,3 +13,5 @@ ubuntu-basic-hyper-v/.vagrant/machines/default/hyperv/Virtual Machines/7040C67E-
 ubuntu-basic-hyper-v/.vagrant/machines/default/hyperv/Virtual Machines/7040C67E-0669-4C2C-8B56-68D1F1BA4090.vmgs
 ubuntu-basic-hyper-v/.vagrant/machines/default/hyperv/Virtual Machines/7040C67E-0669-4C2C-8B56-68D1F1BA4090.VMRS
 ubuntu-basic-hyper-v/.vagrant/rgloader/loader.rb
+
+ubuntu-basic-hyper-v/.vagrant/*
